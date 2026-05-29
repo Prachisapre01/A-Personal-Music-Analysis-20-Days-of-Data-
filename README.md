@@ -71,7 +71,7 @@ time column to IST using `dt.tz_convert('Asia/Kolkata')`.
 Extracted `date`, `hour`, `day_name`, and `month` from the timestamp column 
 separately for time-based analysis.
 
-![Cleaned Data](cleaned_data.png)
+![Cleaned Data](cleaned_data.png.png)
 
 ---
 
@@ -80,27 +80,32 @@ separately for time-based analysis.
 441 plays across 20 days revealed some clear patterns in my listening behavior 
 that I wouldn't have noticed otherwise.
 
-**Listening is heavily concentrated on one artist**
+1. **Listening is heavily concentrated on one artist**
+
 50% of all my plays were Michael Jackson, 220 out of 441 plays. The remaining 
 50% was spread across 144 other artists. I knew I liked his music but didn't 
 realize half my listening time was just him.
 
-**Two clear peaks in my day**
+2. **Two clear peaks in my day**
+
 My listening spikes at two specific times, around 11 AM and again at 7-8 PM. 
 The afternoon hours between 3-6 PM are almost completely silent. My music 
 clearly follows my daily routine without me consciously planning it.
 
-![data analysis](da.png)
+3. **Weekdays dominate, weekends drop off**
 
-**Weekdays dominate, weekends drop off**
 Tuesday is my most active listening day with 101 plays. Listening drops 
 consistently through the week and hits its lowest on Sunday with around 18 plays. 
 Weekdays account for the majority of my total listening.
 
-**A small set of songs on repeat**
+4. **A small set of songs on repeat**
+
 My top 5 songs — Smooth Criminal, Billie Jean, Don't Stop Til You Get Enough, 
-Thriller, and Beat It — are all Michael Jackson. Smooth Criminal alone was played 
+Thriller, and Beat It, are all Michael Jackson. Smooth Criminal alone was played 
 13 times in 20 days.
+
+![Dashboard](dashboard.png)
+
 
 **Summary**
 
@@ -113,7 +118,6 @@ Thriller, and Beat It — are all Michael Jackson. Smooth Criminal alone was pla
 | Peak Listening Hour | 7–8 PM |
 | Most Active Day | Tuesday |
 
-![Dashboard](dashboard.png)
 
 ## Files
 
