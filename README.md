@@ -104,7 +104,7 @@ My top 5 songs — Smooth Criminal, Billie Jean, Don't Stop Til You Get Enough,
 Thriller, and Beat It, are all Michael Jackson. Smooth Criminal alone was played 
 13 times in 20 days.
 
-![Dashboard](dashboard.png)
+![Dashboard](yt_analysis_dashboard.png)
 
 
 **Summary**
