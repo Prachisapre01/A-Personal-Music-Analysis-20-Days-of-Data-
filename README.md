@@ -1,4 +1,4 @@
-# Turning My YouTube Music History into Insights
+# Streaming Behavior and Listening Pattern Analysis
 My personal music listening analysis using python(pandas) for data cleaning and analysis , Power BI  for visualization.
 ---
 
